@@ -7,9 +7,6 @@ import { AiFillLinkedin, AiFillGithub } from 'react-icons/ai'
 import './App.css';
 
 
-
-
-
 function App() {
   return (
     <div className="App">
