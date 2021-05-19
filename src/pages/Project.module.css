@@ -1,0 +1,55 @@
+.title {
+    font-size: 38px;
+}
+
+.project_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.crypto_img {
+    width: 320px;
+    height: 195px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.recipe_img {
+    width: 320px;
+    height: 195px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.codr_img {
+    width: 320px;
+    height: 195px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.attack_img {
+    width: 320px;
+    height: 195px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.project_box {
+    background-color: rgb(163, 163, 197, 0.698);
+    width: 340px;
+    margin: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 15px rgb(113, 113, 122);
+}
+
+.project_description {
+    width: 300px;
+    margin: auto;
+}
+
+.project_name {
+    text-decoration: none;
+    color: black;
+}

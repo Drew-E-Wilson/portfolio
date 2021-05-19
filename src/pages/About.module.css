@@ -1,0 +1,45 @@
+.about_page {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.headshot {
+    height: 320px;
+    width: 320px;
+    margin-top: 40px;
+    box-shadow: 0px 0px 15px rgb(43, 43, 46);
+    border-radius: 5px;
+}
+
+.leftinfosheet {
+    width: 600px;
+    height: auto;
+    background-color: rgb(163, 163, 197, 0.698);
+    /* background-color: rgba(112, 161, 170, 0.815); */
+    color: black;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    box-shadow: 0px 0px 15px rgb(113, 113, 122);
+    margin-bottom: 40px;
+  }
+
+.description {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.title_name {
+    font-size: 38px;
+}
+
+@media screen and (max-width: 450px) {
+    .leftinfosheet {
+        width: 340px;
+    }
+
+    .headshot {
+        width: 275px;
+        height: 275px;
+    }
+} 
