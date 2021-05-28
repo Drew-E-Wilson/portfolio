@@ -6,8 +6,8 @@ export default function Projects() {
             <h1 className={styles.title}>Projects</h1>
             <div className={styles.project_container}>
                 <div className={styles.project_box}>
-                    <a href="" target="_blank" className={styles.project_name}><img className={styles.crypto_img} src="https://imgur.com/mWZYC22.jpg"></img>
-                    <h2>Crypto</h2></a>
+                    <a href="https://drew-e-wilson.github.io/Crypto-frontend/" target="_blank" className={styles.project_name}><img className={styles.crypto_img} src="https://imgur.com/mWZYC22.jpg"></img>
+                    <h2>CryptoTalk</h2></a>
                     <h4 className={styles.project_description}>Designed to give up-to-date crypto data and be able to save your favorite cryptos for easy access to see their price, market cap, and more. </h4>
                     <h4>software used/ icons</h4>
                 </div>

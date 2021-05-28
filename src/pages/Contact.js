@@ -12,7 +12,6 @@ export default function Contact() {
                 <div className={styles.section2}>
                     <h1 className={styles.my_name}>DREW WILSON</h1>
                     <h2 className={styles.job_title}>Software Developer</h2>
-                    <p className={styles.info_contact}>adf adf a af  af  dagfa rafgw arsfgq sfg qwerasgf efg qwr gqwr fgdqwra gqwraf gqwergqwreg qwrg qrwge gad adgadg  weg eg wgrwegf af gaef  ihwe aegoih gfoihf. sfh sfoi sdfer easdiogh sg gshdgsdhg gsoihg sgoi the the ods djhf djuuhfc. seff gshsgdfi.</p>
                     <div className={styles.info_holder}>
                         <a href = "mailto: dwilsrock21@gmail.com"><h4 className={styles.sendemail}><AiOutlineMail/> Dwilsrock21@gmail.com</h4></a>
                         <h4><AiOutlineHome/> Atlanta, GA</h4>
